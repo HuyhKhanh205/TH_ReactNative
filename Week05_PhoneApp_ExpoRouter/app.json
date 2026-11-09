@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "Lab_05_c_ExpoRouter",
+    "slug": "lab-05-c-exporouter",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "scheme": "phoneapp",
+    "plugins": [
+      "expo-router"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "Week02_TypeScript_Call_API_Async",
+    "slug": "week02-typescript-call-api-async",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ]
+  }
+}
